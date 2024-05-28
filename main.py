@@ -1,6 +1,7 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QLabel, QLineEdit, QPushButton, QComboBox, QDateEdit, QVBoxLayout, QWidget, QRadioButton
 
 def register():
+    hello = 1
     name = name_lineedit.text()
     phone = phone_lineedit.text()
     gender = "Мужской" if male_radio.isChecked() else "Женский"
