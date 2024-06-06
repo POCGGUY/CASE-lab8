@@ -43,7 +43,7 @@ window.setWindowTitle("Регистрация ")
 name_label = QLabel("ФИО:")
 name_lineedit = QLineEdit()
 
-phone_label = QLabel("абвгд :")
+phone_label = QLabel("Номер телефона :")
 phone_lineedit = QLineEdit()
 
 gender_label = QLabel("Пол:")
