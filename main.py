@@ -37,7 +37,7 @@ def register():
 app = QApplication([])
 
 window = QMainWindow()
-window.setWindowTitle("Регистрация")
+window.setWindowTitle("Регистрация ")
 
 # Создание виджетов
 name_label = QLabel("ФИО:")
